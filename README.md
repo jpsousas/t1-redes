@@ -1,6 +1,6 @@
 # t1-redes
 
-Integrantes: 
+Integrantes:<br> 
 David Tahara<br>
 João Pedro Mendes<br>
 Naira Helena Prado<br>
