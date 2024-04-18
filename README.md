@@ -3,7 +3,7 @@
 Integrantes:<br> 
 David Tahara<br>
 João Pedro Mendes<br>
-Naira Helena Prado<br>
+
 
 Para instalar as bibliotecas utilazadas:
 ```bash
